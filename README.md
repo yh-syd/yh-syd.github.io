@@ -39,6 +39,10 @@ Then open http://localhost:8000.
 
 With `prefers-reduced-motion` set, the letters stay still and only the light moves.
 
+## Analytics
+
+The page loads Google Analytics (GA4) to count visits. Nothing you do on the wall is sent.
+
 ## Licence
 
 MIT
